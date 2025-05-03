@@ -2,7 +2,7 @@
 
 # 👋 Olá, me chamo Heberty!
 
-🚀 Apaixonado por tecnologia e soluções inteligentes
+🚀 Apaixonado por tecnologia e soluções inteligentes <br>
 💻 Desenvolvedor **Full-Stack** 
 
 ## 💡 Sobre mim
